@@ -5,8 +5,8 @@ It is intended to be used as a fun tiny claw machine that can fit on a desk. It 
 
 <img width="652" height="811" alt="Claw machine" src="https://github.com/user-attachments/assets/4256c675-0256-47f5-8cef-ab1d9dec1566" />
 
-#Features & Design
+# Features & Design
 
-#PCB
+# PCB
 
-#Firmware
+# Firmware
