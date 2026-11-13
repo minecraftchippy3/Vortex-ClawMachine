@@ -1,5 +1,6 @@
-<img width="1112" height="846" alt="fgbc" src="https://github.com/user-attachments/assets/b7c68121-115f-4fc3-bf62-66963bfe6ecd" />
+
 # Vortex-ClawMachine
+**<img width="652" height="811" alt="Claw machine" src="https://github.com/user-attachments/assets/4256c675-0256-47f5-8cef-ab1d9dec1566" />**
 Vortex is a working small claw machine powered by an esp32. Built for Hack Club Fallen 2026
 
 It is intended to be used as a fun tiny claw machine that can fit on a desk. It uses a large glowing button, along with a fun arcade joystick to control a claw that can pick up small prizes.
