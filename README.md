@@ -14,6 +14,8 @@ The Claw Machine uses an XY gantry design using 2 lead ball screws, inspired by 
 This small claw machine that can fit on your desk uses a wall power supply and uses stepper motors to control the main claw carriage. It also has a claw with 3 grabbers, which are all controlled by one linear actuator. 2 Nema stepper motors control the Gantry system, while the claw lowering mechanism is controlled by a regular DC motor.
 # PCB & Components
 For each Motor and Linear Actuator, I have a different designated motor driver. Each motor driver also uses a decoupling capacitator, and I am using a step down converter to change the voltage from the wall power source to a suitable 5 volts for controlling the esp32. It uses two rows of pin headers to allow for each component to get plugged in easily. The PCB design fits all of this into a small board that allows for easy connections to the components. A full list of all components is provided in the tutorial section.
+<img width="1157" height="810" alt="f" src="https://github.com/user-attachments/assets/92b84d93-af10-4fa3-864b-b2a720c998c7" />
+
 <img width="1112" height="846" alt="fgbc" src="https://github.com/user-attachments/assets/2f2a3e52-19c7-404c-8923-b38e57169751" />
 
 # Firmware
