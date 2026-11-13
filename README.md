@@ -8,7 +8,7 @@ It is intended to be used as a fun tiny claw machine that can fit on a desk. It 
 # Features & Design
 This small claw machine that can fit on your desk uses a wall power supply and uses stepper motors to control the main claw carriage. 
 
-It uses an XY gantry design using 2 lead ball screws, inspired by 3D printers. The claw machine also includes a small prize chute that can handle prizes up to 6 cm wide.
+It uses an XY gantry design using 2 lead ball screws, inspired by 3D printers. The claw machine also includes a small prize chute that can handle prizes up to 6 cm wide. I first had this idea for a project a while ago, when I saw how cool the gantry design was in a claw machine at an arcade. I had the idea for a while until an event called HackClub Fallen occurred. I decided this would be the perfect opportunity to create the claw machine I wanted to build. 
 # PCB
 
 # Firmware
