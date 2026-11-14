@@ -1,0 +1,24 @@
+Part Name,Amount needed,Link,Notes
+28BYJ 48 26 Stepper Motor,1,https://www.digikey.com/en/products/detail/mikroelektronika/MIKROE-1530/5724295,(5V DC)
+Nema 11 Motor,1,https://www.osmtec.com/short-shaft-nema-11-bipolar-1-8deg-12ncm-16-99oz-in-0-7a-28x28x51mm-4-wires-11hs20-0704s,
+Nema 17 Motor,1,https://www.omc-stepperonline.com/nema-17-bipolar-45ncm-64oz-in-2a-42x42x40mm-4-wires-w-1m-cable-connector-17hs16-2004s1,
+Large 60mm Red Button,1,https://www.adafruit.com/product/1190,
+Large Joystick 4 Way,1,Joystick,
+ESP 32 32E devkit,1,esp32,
+TMC2209,2,https://www.digikey.com/en/products/detail/analog-devices-inc-maxim-integrated/TMC2209SILENTSTEPSTICK/10232488,Make sure they are silentstepstick
+ULN2003,1,uln2003,
+TB6612FNG,1,https://www.digikey.com/en/products/detail/pololu/713/10450399?s=N4IgTCBcDaICoCEBsSCMYBiA5A4iAugL5A,
+LM2596 Step-Down Converter,1,https://www.amazon.com/dp/B0CP78BZ4B?lv=shuf&channelId=500&plpRedirect=mhFallback,
+Same Sky PJ-063AH ,1,barrel jack,
+Capacitators,2,https://www.digikey.com/en/products/detail/panasonic-industry/EEU-FR1V101B/9921038,
+Limit Switches,4,switches,
+14 Pin Socket Header,1,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SSK02-FPH-254-A14/28772145,
+12 Pin Socket Header,1,12 pin header,
+L16 S Miniature Linear Actuator 35-1 ratio,1,Linear ACtuator,
+100μf 35v electrolytic capacitor,2,Capacitators,
+470µF electrolytic capacitor ,1,https://www.digikey.com/en/products/detail/rubycon/100PK470MEFC16X25/3564432,
+100 nF ceramic capacitor through hole,1,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/K104K10X7RF5UH5/2356754,
+,,,
+lead screw rod,1,lead screw,I will purchase this myself
+2 Core telephone style extender,1,Cord,
+24 AWG wire,1,wire,
