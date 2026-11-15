@@ -21,3 +21,4 @@ For each Motor and Linear Actuator, I have a different designated motor driver. 
 # Firmware
 
 # Tutorial
+In order to build this project you will need to first purchase all of the materials listed in the bill of materials. You can also access it here: https://docs.google.com/spreadsheets/d/1xCzKfybSfL5fdOHrgDWEpWZYRfK5qvbeohSW9LeV1TY
