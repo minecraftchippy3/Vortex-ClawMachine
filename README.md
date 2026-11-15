@@ -22,3 +22,5 @@ For each Motor and Linear Actuator, I have a different designated motor driver. 
 
 # Tutorial
 In order to build this project you will need to first purchase all of the materials listed in the bill of materials. You can also access it here: https://docs.google.com/spreadsheets/d/1xCzKfybSfL5fdOHrgDWEpWZYRfK5qvbeohSW9LeV1TY
+
+Once you have secured all of the parts, you can start working on creating the large outer frame. I recommend 3D printing the claw, front base, and top of the frame. All of the files are linked in the CAD folder. For the vertical bars, I recommend using 2020 Aluminum Extrusions, though it is also possible to fully 3D print it. This is also linked in the CAD folder, in case you choose to 3D print them. 
